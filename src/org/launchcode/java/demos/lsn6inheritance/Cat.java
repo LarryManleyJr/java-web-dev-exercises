@@ -11,7 +11,9 @@ public class Cat {
 
     public Cat (double aWeight) {
         weight = aWeight;
-    }
+  }
+
+
 
     /**** Getters and Setters ****/
 

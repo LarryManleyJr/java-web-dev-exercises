@@ -44,4 +44,12 @@ public class Computer {
     public String getPlaceOfPurchase(){
         return placeOfPurchase;
     }
-}
+    public String ringTone () {
+        return "RingRing!!!!!";
+    }
+        public String operatingSystem () {
+            return "iOS";
+
+        }
+    }
+
